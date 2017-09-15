@@ -9,8 +9,7 @@ Es kann jeder mit machen und sich daran erfreuen.
 
 # Konzept
 
-![Das wunderbare Flex Cafe Schild]
-(vorlagen/flex.jpg)
+![Das wunderbare Flex Cafe Schild](/beispiel/flex.jpg)
 
 * Es sollen Leuchten aneinander gereiht werden die gemeinsam Mutterschiff 
   ergeben.
